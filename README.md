@@ -42,12 +42,12 @@ Then create a file titled link.html:
 
 
 
-<div>  "<html>
+ <!-- <html>
     <body>
       <h1>Qiick Link Extensions</h1>
     </body>
-
-  </html>" </div>
+  </html>
+  -->
 
 
 
