@@ -40,15 +40,16 @@ Every extension requires a manifest, though most extensions will not do much wit
 
 Then create a file titled link.html:
 
-{::nomarkdown}
-
- <!-- <html>
+<blockquote>
+ 
+  <html>
     <body>
       <h1>Qiick Link Extensions</h1>
     </body>
   </html>
-  -->
-{:/}
+
+
+</blockquote>
 
 
 
