@@ -40,7 +40,7 @@ Every extension requires a manifest, though most extensions will not do much wit
 
 Then create a file titled link.html:
 
-<blockquote>
+<span>
  
   <html>
     <body>
@@ -49,7 +49,7 @@ Then create a file titled link.html:
   </html>
 
 
-</blockquote>
+<span>
 
 
 
