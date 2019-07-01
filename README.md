@@ -4,6 +4,7 @@ chrome extension for easy link access
 . google chrome extenctions are created with these technologies HTML,CSS,JAVASCRIPT.
 . Extension files are zipped into a  package of .crx extension that the user downloads and installs. 
 . Extensions are distributed through the Chrome Developer Dashboard and published to the Chrome Web Store. 
+
         https://chrome.google.com/webstore/developer/dashboard
         https://chrome.google.com/webstore/category/extensions
         
@@ -40,11 +41,12 @@ Every extension requires a manifest, though most extensions will not do much wit
 Then create a file titled link.html:
 
 
-<html>
+"   <html>
     <body>
       <h1>Qiick Link Extensions</h1>
     </body>
 </html>
+"
 
 
 
