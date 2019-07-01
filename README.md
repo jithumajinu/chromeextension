@@ -1,4 +1,4 @@
-# chromeextension
+# chrome extension
 chrome extension for easy link access 
 
 . google chrome extenctions are created with these technologies HTML,CSS,JAVASCRIPT.
@@ -39,17 +39,13 @@ Next, add a file called manifest.json and include the following code:
 Every extension requires a manifest, though most extensions will not do much with just the manifest. For this quick start, the extension has a popup file and icon declared under the browser_action field:
 
 Then create a file titled link.html:
-
-<span>
  
-  <html>
-    <body>
-      <h1>Qiick Link Extensions</h1>
-    </body>
-  </html>
+  #<html>
+     #<body>
+      #<h1>Qiick Link Extensions</h1>
+    #</body>
+  #</html>
 
-
-<span>
 
 
 
