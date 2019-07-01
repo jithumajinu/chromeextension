@@ -40,7 +40,7 @@ Every extension requires a manifest, though most extensions will not do much wit
 
 Then create a file titled link.html:
 
-
+{::nomarkdown}
 
  <!-- <html>
     <body>
@@ -48,7 +48,7 @@ Then create a file titled link.html:
     </body>
   </html>
   -->
-
+{:/}
 
 
 
